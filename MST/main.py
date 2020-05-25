@@ -1,5 +1,5 @@
-#! /usr/bin/env python3
-# MST
+# Minimum Spanning Tree
+# ! /usr/bin/env python3
 
 
 def prims(graph, start_vertex):
